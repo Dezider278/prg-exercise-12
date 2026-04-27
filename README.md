@@ -1,1 +1,1 @@
-# prg-exercise-12
+uv # prg-exercise-12
